@@ -3,4 +3,4 @@ This repository contains the manuscript 'Discovering cyclic causal models in psy
 
 ## Note  
 - You can compile the `main.tex` file to generate the `main.pdf` file.
-- Note that there is a minor compilation error regarding using the `unicode-math` package, but you can ignore it.
+- Note that there is a minor compilation error regarding using the `unicode-math` package with pdfTex, but you can ignore it.
