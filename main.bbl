@@ -184,6 +184,40 @@ Briganti, G.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Colombo%
+, Maathuis%
+, Kalisch%
+\BCBL {}\ \BBA {} Richardson%
+}{%
+Colombo%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+diego2012}
+\APACinsertmetastar {%
+diego2012}%
+\begin{APACrefauthors}%
+Colombo, D.%
+, Maathuis, M\BPBI H.%
+, Kalisch, M.%
+\BCBL {}\ \BBA {} Richardson, T\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Learning high-dimensional directed acyclic graphs with
+  latent and selection variables}} {{Learning high-dimensional directed acyclic
+  graphs with latent and selection variables}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Annals of Statistics}{40}{1}{294 -- 321}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1214/11-AOS940} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1214/11-AOS940} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Constantin%
 \ \BBA {} Cramer%
 }{%
@@ -649,6 +683,60 @@ Richardson, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Richardson%
+}{%
+Richardson%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+richardson_markov_2003}
+\APACinsertmetastar {%
+richardson_markov_2003}%
+\begin{APACrefauthors}%
+Richardson, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Markov {Properties} for {Acyclic} {Directed} {Mixed}
+  {Graphs}} {Markov {Properties} for {Acyclic} {Directed} {Mixed}
+  {Graphs}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Scandinavian Journal of Statistics}{30}{1}{145--157}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/1467-9469.00323} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Richardson%
+\ \BBA {} Spirtes%
+}{%
+Richardson%
+\ \BBA {} Spirtes%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Richardson2002}
+\APACinsertmetastar {%
+Richardson2002}%
+\begin{APACrefauthors}%
+Richardson, T.%
+\BCBT {}\ \BBA {} Spirtes, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Ancestral graph Markov models}} {{Ancestral graph
+  Markov models}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Annals of Statistics}{30}{4}{962 -- 1030}.
+\newblock
+\begin{APACrefDOI} \doi{10.1214/aos/1031689015} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Robinaugh%
 , Hoekstra%
 , Toner%
@@ -679,6 +767,40 @@ Robinaugh, D\BPBI J.%
 \APACjournalVolNumPages{Psychological Medicine}{50}{3}{353–366}.
 \newblock
 \begin{APACrefDOI} \doi{10.1017/S0033291719003404} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rothenh{\"a}usler%
+, Heinze%
+, Peters%
+\BCBL {}\ \BBA {} Meinshausen%
+}{%
+Rothenh{\"a}usler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+rothenhausler_backshift_2015}
+\APACinsertmetastar {%
+rothenhausler_backshift_2015}%
+\begin{APACrefauthors}%
+Rothenh{\"a}usler, D.%
+, Heinze, C.%
+, Peters, J.%
+\BCBL {}\ \BBA {} Meinshausen, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{{\APACmonth{11}}}{}.
+\newblock
+\APACrefbtitle {{backShift}: {Learning} causal cyclic graphs from unknown shift
+  interventions.} {{backShift}: {Learning} causal cyclic graphs from unknown
+  shift interventions.}
+\newblock
+\APACaddressPublisher{}{arXiv}.
+\newblock
+\APACrefnote{arXiv:1506.02494 [stat]}
+\newblock
+\begin{APACrefDOI} \doi{10.48550/arXiv.1506.02494} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -818,6 +940,34 @@ Spirtes, P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Spirtes%
+, Meek%
+\BCBL {}\ \BBA {} Richardson%
+}{%
+Spirtes%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1999}}%
+}]{%
+spirtes1999algorithm}
+\APACinsertmetastar {%
+spirtes1999algorithm}%
+\begin{APACrefauthors}%
+Spirtes, P.%
+, Meek, C.%
+\BCBL {}\ \BBA {} Richardson, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An algorithm for causal inference in the presence of
+  latent variables and selection bias} {An algorithm for causal inference in
+  the presence of latent variables and selection bias}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computation, causation, and discovery}{21}{}{211--252}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Strobl%
 }{%
 Strobl%
@@ -875,6 +1025,58 @@ Wittenborn, A\BPBI K.%
 \APACjournalVolNumPages{Psychological Medicine}{46}{3}{551–562}.
 \newblock
 \begin{APACrefDOI} \doi{10.1017/S0033291715002044} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+}{%
+Zhang%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+zhang_completeness_2008}
+\APACinsertmetastar {%
+zhang_completeness_2008}%
+\begin{APACrefauthors}%
+Zhang, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the completeness of orientation rules for causal
+  discovery in the presence of latent confounders and selection bias} {On the
+  completeness of orientation rules for causal discovery in the presence of
+  latent confounders and selection bias}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Artificial Intelligence}{172}{16}{1873--1896}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.artint.2008.08.001} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+\ \BBA {} Spirtes%
+}{%
+Zhang%
+\ \BBA {} Spirtes%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+zhang_characterization_2005}
+\APACinsertmetastar {%
+zhang_characterization_2005}%
+\begin{APACrefauthors}%
+Zhang, J.%
+\BCBT {}\ \BBA {} Spirtes, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+\APACrefbtitle {A {Characterization} of {Markov} {Equivalence} {Classes} for
+  {Ancestral} {Graphical} {Models}.} {A {Characterization} of {Markov}
+  {Equivalence} {Classes} for {Ancestral} {Graphical} {Models}.}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

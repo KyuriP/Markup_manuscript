@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.16)  19 JAN 2023 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.16)  17 FEB 2023 14:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -200,7 +200,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@dimlist=\toks26
 )
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 2
-8.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
@@ -243,7 +243,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count283
 )
-LaTeX Info: Redefining \BBA on input line 39.
+LaTeX Info: Redefining \BBA on input line 38.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
@@ -647,6 +647,14 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen274
+\pgfarrowlength=\dimen275
+\pgfarrowwidth=\dimen276
+\pgfarrowlinewidth=\dimen277
+)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
@@ -688,8 +696,8 @@ Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count313
 \calc@Bcount=\count314
-\calc@Adimen=\dimen274
-\calc@Bdimen=\dimen275
+\calc@Adimen=\dimen278
+\calc@Bdimen=\dimen279
 \calc@Askip=\skip76
 \calc@Bskip=\skip77
 LaTeX Info: Redefining \setlength on input line 80.
@@ -701,16 +709,16 @@ LaTeX Info: Redefining \addtolength on input line 81.
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count316
-\l_MT_multwidth_dim=\dimen276
+\l_MT_multwidth_dim=\dimen280
 \origjot=\skip79
-\l_MT_shortvdotswithinadjustabove_dim=\dimen277
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen278
-\l_MT_above_intertext_sep=\dimen279
-\l_MT_below_intertext_sep=\dimen280
-\l_MT_above_shortintertext_sep=\dimen281
-\l_MT_below_shortintertext_sep=\dimen282
+\l_MT_shortvdotswithinadjustabove_dim=\dimen281
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen282
+\l_MT_above_intertext_sep=\dimen283
+\l_MT_below_intertext_sep=\dimen284
+\l_MT_above_shortintertext_sep=\dimen285
+\l_MT_below_shortintertext_sep=\dimen286
 \xmathstrut@box=\box65
-\xmathstrut@dim=\dimen283
+\xmathstrut@dim=\dimen287
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
@@ -721,7 +729,7 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 (/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip80
-\enit@outerparindent=\dimen284
+\enit@outerparindent=\dimen288
 \enit@toks=\toks40
 \enit@inbox=\box66
 \enit@count@id=\count320
@@ -738,41 +746,41 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen285
+\col@sep=\dimen289
 \ar@mcellbox=\box69
-\extrarowheight=\dimen286
+\extrarowheight=\dimen290
 \NC@list=\toks42
 \extratabsurround=\skip81
 \backup@length=\skip82
 \ar@cellbox=\box70
 )
-\TX@col@width=\dimen287
-\TX@old@table=\dimen288
-\TX@old@col=\dimen289
-\TX@target=\dimen290
-\TX@delta=\dimen291
+\TX@col@width=\dimen291
+\TX@old@table=\dimen292
+\TX@old@col=\dimen293
+\TX@target=\dimen294
+\TX@delta=\dimen295
 \TX@cols=\count322
 \TX@ftn=\toks43
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen292
-\lightrulewidth=\dimen293
-\cmidrulewidth=\dimen294
-\belowrulesep=\dimen295
-\belowbottomsep=\dimen296
-\aboverulesep=\dimen297
-\abovetopsep=\dimen298
-\cmidrulesep=\dimen299
-\cmidrulekern=\dimen300
-\defaultaddspace=\dimen301
+\heavyrulewidth=\dimen296
+\lightrulewidth=\dimen297
+\cmidrulewidth=\dimen298
+\belowrulesep=\dimen299
+\belowbottomsep=\dimen300
+\aboverulesep=\dimen301
+\abovetopsep=\dimen302
+\cmidrulesep=\dimen303
+\cmidrulekern=\dimen304
+\defaultaddspace=\dimen305
 \@cmidla=\count323
 \@cmidlb=\count324
-\@aboverulesep=\dimen302
-\@belowrulesep=\dimen303
+\@aboverulesep=\dimen306
+\@belowrulesep=\dimen307
 \@thisruleclass=\count325
 \@lastruleclass=\count326
-\@thisrulewidth=\dimen304
+\@thisrulewidth=\dimen308
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
@@ -804,16 +812,16 @@ Package: tabularray 2022-03-01 v2022A Typeset tabulars and arrays with LaTeX3
 \l__tblr_a_int=\count328
 \l__tblr_c_int=\count329
 \l__tblr_r_int=\count330
-\l__tblr_d_dim=\dimen305
-\l__tblr_h_dim=\dimen306
-\l__tblr_o_dim=\dimen307
-\l__tblr_p_dim=\dimen308
-\l__tblr_q_dim=\dimen309
-\l__tblr_r_dim=\dimen310
-\l__tblr_s_dim=\dimen311
-\l__tblr_t_dim=\dimen312
-\l__tblr_v_dim=\dimen313
-\l__tblr_w_dim=\dimen314
+\l__tblr_d_dim=\dimen309
+\l__tblr_h_dim=\dimen310
+\l__tblr_o_dim=\dimen311
+\l__tblr_p_dim=\dimen312
+\l__tblr_q_dim=\dimen313
+\l__tblr_r_dim=\dimen314
+\l__tblr_s_dim=\dimen315
+\l__tblr_t_dim=\dimen316
+\l__tblr_v_dim=\dimen317
+\l__tblr_w_dim=\dimen318
 \l__tblr_a_box=\box72
 \l__tblr_b_box=\box73
 \l__tblr_c_box=\box74
@@ -823,10 +831,10 @@ Package: tabularray 2022-03-01 v2022A Typeset tabulars and arrays with LaTeX3
 \c@colnum=\count333
 \c@rowcount=\count334
 \c@colcount=\count335
-\abovesep=\dimen315
-\belowsep=\dimen316
-\leftsep=\dimen317
-\rightsep=\dimen318
+\abovesep=\dimen319
+\belowsep=\dimen320
+\leftsep=\dimen321
+\rightsep=\dimen322
 \g_tblr_level_int=\count336
 \g__tblr_data_row_key_count_int=\count337
 \g__tblr_data_column_key_count_int=\count338
@@ -837,27 +845,27 @@ Package: tabularray 2022-03-01 v2022A Typeset tabulars and arrays with LaTeX3
 \l__tblr_key_quotient_two_int=\count343
 \l__tblr_key_remainder_int=\count344
 \g__tblr_data_str_value_count_int=\count345
-\rulewidth=\dimen319
+\rulewidth=\dimen323
 \l__tblr_strut_ht_box=\box76
 \l__tblr_strut_dp_box=\box77
-\g__tblr_cell_wd_dim=\dimen320
-\g__tblr_cell_ht_dim=\dimen321
-\g__tblr_cell_head_dim=\dimen322
-\g__tblr_cell_foot_dim=\dimen323
-\l__column_target_dim=\dimen324
+\g__tblr_cell_wd_dim=\dimen324
+\g__tblr_cell_ht_dim=\dimen325
+\g__tblr_cell_head_dim=\dimen326
+\g__tblr_cell_foot_dim=\dimen327
+\l__column_target_dim=\dimen328
 \l__tblr_caption_box=\box78
 \l__tblr_caption_left_box=\box79
 \l__tblr_row_head_box=\box80
 \l__tblr_row_foot_box=\box81
-\l__tblr_row_head_foot_dim=\dimen325
-\tablewidth=\dimen326
+\l__tblr_row_head_foot_dim=\dimen329
+\tablewidth=\dimen330
 \l__tblr_table_firsthead_box=\box82
 \l__tblr_table_middlehead_box=\box83
 \l__tblr_table_lasthead_box=\box84
 \l__tblr_table_firstfoot_box=\box85
 \l__tblr_table_middlefoot_box=\box86
 \l__tblr_table_lastfoot_box=\box87
-\l__tblr_remain_height_dim=\dimen327
+\l__tblr_remain_height_dim=\dimen331
 \l__tblr_long_from_int=\count346
 \l__tblr_long_to_int=\count347
 \l__tblr_curr_i_int=\count348
@@ -865,30 +873,30 @@ Package: tabularray 2022-03-01 v2022A Typeset tabulars and arrays with LaTeX3
 \l__tblr_table_page_int=\count350
 \l__tblr_table_head_box=\box88
 \l__tblr_table_foot_box=\box89
-\l__tblr_table_head_foot_dim=\dimen328
-\l__tblr_table_head_body_foot_dim=\dimen329
+\l__tblr_table_head_foot_dim=\dimen332
+\l__tblr_table_head_body_foot_dim=\dimen333
 \l__tblr_table_box=\box90
 \l__tblr_table_hlines_box=\box91
 \l__tblr_hline_box=\box92
 \l__tblr_row_box=\box93
-\l__tblr_col_o_wd_dim=\dimen330
-\l__tblr_col_b_wd_dim=\dimen331
-\l__tblr_hline_leftskip_dim=\dimen332
-\l__tblr_hline_rightskip_dim=\dimen333
-\l__tblr_row_ht_dim=\dimen334
-\l__tblr_row_dp_dim=\dimen335
-\l__tblr_row_abovesep_dim=\dimen336
-\l__tblr_row_belowsep_dim=\dimen337
+\l__tblr_col_o_wd_dim=\dimen334
+\l__tblr_col_b_wd_dim=\dimen335
+\l__tblr_hline_leftskip_dim=\dimen336
+\l__tblr_hline_rightskip_dim=\dimen337
+\l__tblr_row_ht_dim=\dimen338
+\l__tblr_row_dp_dim=\dimen339
+\l__tblr_row_abovesep_dim=\dimen340
+\l__tblr_row_belowsep_dim=\dimen341
 \l__tblr_row_vlines_box=\box94
 \l__tblr_vline_box=\box95
 \l__tblr_cell_box=\box96
-\l__row_upper_dim=\dimen338
-\l__row_lower_dim=\dimen339
-\l__row_vpace_dim=\dimen340
-\l__tblr_vline_aboveskip_dim=\dimen341
-\l__tblr_vline_belowskip_dim=\dimen342
-\l__tblr_cell_wd_dim=\dimen343
-\l__tblr_cell_ht_dim=\dimen344
+\l__row_upper_dim=\dimen342
+\l__row_lower_dim=\dimen343
+\l__row_vpace_dim=\dimen344
+\l__tblr_vline_aboveskip_dim=\dimen345
+\l__tblr_vline_belowskip_dim=\dimen346
+\l__tblr_cell_wd_dim=\dimen347
+\l__tblr_cell_ht_dim=\dimen348
 \l__tblr_diag_box=\box97
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/preprint/authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
@@ -941,7 +949,7 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen345
+\@linkdim=\dimen349
 \Hy@linkcounter=\count356
 \Hy@pagecounter=\count357
 
@@ -977,7 +985,7 @@ Package hyperref Info: Bookmarks ON on input line 4390.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen346
+\XeTeXLinkMargin=\dimen350
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -987,8 +995,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count360
-\Field@Width=\dimen347
-\Fld@charsize=\dimen348
+\Field@Width=\dimen351
+\Fld@charsize=\dimen352
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -1047,66 +1055,66 @@ l.40 ...ror:nn {unicode-math} {unsupported-engine}
 ? 
 )
 \c@definition=\count366
-LaTeX Info: Redefining \doi on input line 217.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 2
-42.
+LaTeX Info: Redefining \doi on input line 303.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 3
+31.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 242.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 331.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-242.
+331.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 331.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-242.
+331.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 331.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 331.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 331.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 331.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-242.
+331.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 242.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 2
-42.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 331.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 3
+31.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 242.
-LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 331.
+LaTeX Font Info:    ... okay on input line 331.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 331.
+LaTeX Font Info:    ... okay on input line 331.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count367
-\scratchdimen=\dimen349
+\scratchdimen=\dimen353
 \scratchbox=\box98
 \nofMPsegments=\count368
 \nofMParguments=\count369
 \everyMPshowfont=\toks44
 \MPscratchCnt=\count370
-\MPscratchDim=\dimen350
+\MPscratchDim=\dimen354
 \MPnumerator=\count371
 \makeMPintoPDFobject=\count372
 \everyMPtoPDFconversion=\toks45
@@ -1121,8 +1129,8 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen351
-\caption@adjustwidth@linewidth=\dimen352
+\caption@adjustwidth@hsize=\dimen355
+\caption@adjustwidth@linewidth=\dimen356
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
@@ -1133,15 +1141,15 @@ Package caption Info: End \AtBeginDocument code.
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* bindingoffset: 14.45377pt
+* bindingoffset: 7.22743pt
 * modes: twoside heightrounded 
-* h-part:(L,W,R)=(86.72377pt, 426.39369pt, 86.72377pt)
+* h-part:(L,W,R)=(86.72377pt, 433.62003pt, 86.72377pt)
 * v-part:(T,H,B)=(86.72377pt, 635.97623pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=426.39369pt
+* \textwidth=433.62003pt
 * \textheight=636.60028pt
-* \oddsidemargin=28.90755pt
+* \oddsidemargin=21.68121pt
 * \evensidemargin=14.45378pt
 * \topmargin=-22.54622pt
 * \headheight=14.0pt
@@ -1174,7 +1182,7 @@ Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
 ))
-Package hyperref Info: Link coloring ON on input line 242.
+Package hyperref Info: Link coloring ON on input line 331.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1188,264 +1196,215 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count374
 )
-LaTeX Info: Redefining \ref on input line 242.
-LaTeX Info: Redefining \pageref on input line 242.
-LaTeX Info: Redefining \nameref on input line 242.
+LaTeX Info: Redefining \ref on input line 331.
+LaTeX Info: Redefining \pageref on input line 331.
+LaTeX Info: Redefining \nameref on input line 331.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 2
-45.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 3
+34.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 2
-45.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 3
+34.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 2
-45.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 3
+34.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
-45.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
+34.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 2
-45.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 3
+34.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 251.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 340.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10.95> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 251.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 340.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 261.
- [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 351.
+
+Overfull \hbox (0.14145pt too wide) in paragraph at lines 355--356
+[][]\OT1/txr/m/n/10.95 1991[][]). [][]Ryan et al.[][][] ([][]2022[][]) sug-gest
+ that net-work mod-els could be re-placed by purpose-built constraint-
+ []
+
+[1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 274.
- [2]
-<figures/DAG_DCG.png, id=139, 583.17876pt x 192.72pt>
-File: figures/DAG_DCG.png Graphic file (type png)
-<use figures/DAG_DCG.png>
-Package pdftex.def Info: figures/DAG_DCG.png  used on input line 285.
-(pdftex.def)             Requested size: 291.58867pt x 96.35976pt.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 380.
 
-Overfull \hbox (7.84122pt too wide) in paragraph at lines 324--325
-\OT1/txr/m/n/10.95 For ex-am-ple, in [][]Fig-ure 1[]b[][], $\OML/txmi/m/it/10.9
-5 X[] \OMS/txsy/m/n/10.95 2 \OML/txmi/m/it/10.95 pa[] X[]$\OT1/txr/m/n/10.95 , 
-$ \OML/txmi/m/it/10.95 X[] \OMS/txsy/m/n/10.95 2 \OML/txmi/m/it/10.95 ch[] X[]$
-\OT1/txr/m/n/10.95 , $ \OMS/txsy/m/n/10.95 f\OML/txmi/m/it/10.95 X[]; X[]; X[];
- X[]\OMS/txsy/m/n/10.95 g 2 \OML/txmi/m/it/10.95 an[] []X[]$\OT1/txr/m/n/10.95 
-, $ \OMS/txsy/m/n/10.95 f\OML/txmi/m/it/10.95 X[]; X[]; X[]\OMS/txsy/m/n/10.95 
-g 2
- []
-
-[3 <./figures/DAG_DCG.png>] [4]
-Overfull \hbox (7.07214pt too wide) in paragraph at lines 353--355
-\OT1/txr/m/n/10.95 re-la-tion-ships rep-re-sented in graphs by test-ing for sta
--tis-ti-cal in-de-pen-dence among vari-ables ([][]Bongers,
- []
-
-<figures/constraintstep.png, id=179, 944.52875pt x 204.765pt>
+[2]
+<figures/DAG_DCG_GGM.png, id=164, 1749.53625pt x 1195.46625pt>
+File: figures/DAG_DCG_GGM.png Graphic file (type png)
+<use figures/DAG_DCG_GGM.png>
+Package pdftex.def Info: figures/DAG_DCG_GGM.png  used on input line 399.
+(pdftex.def)             Requested size: 303.53268pt x 207.40384pt.
+ [3] [4 <./figures/DAG_DCG_GGM.png>] [5]
+<figures/constraintstep.png, id=219, 944.52875pt x 204.765pt>
 File: figures/constraintstep.png Graphic file (type png)
 <use figures/constraintstep.png>
-Package pdftex.def Info: figures/constraintstep.png  used on input line 368.
-(pdftex.def)             Requested size: 426.39369pt x 92.4402pt.
-<figures/CB_summaryedited2.png, id=181, 3646.62375pt x 1966.34625pt>
+Package pdftex.def Info: figures/constraintstep.png  used on input line 521.
+(pdftex.def)             Requested size: 433.62003pt x 94.00555pt.
+<figures/CB_summaryedited2.png, id=221, 3646.62375pt x 1966.34625pt>
 File: figures/CB_summaryedited2.png Graphic file (type png)
 <use figures/CB_summaryedited2.png>
-Package pdftex.def Info: figures/CB_summaryedited2.png  used on input line 379.
+Package pdftex.def Info: figures/CB_summaryedited2.png  used on input line 539.
 
-(pdftex.def)             Requested size: 426.39369pt x 229.92056pt.
-[5] [6 <./figures/constraintstep.png> <./figures/CB_summaryedited2.png>]
-[7] [8]
-<figures/ccdtrace_edited.png, id=248, 967.615pt x 644.4075pt>
-File: figures/ccdtrace_edited.png Graphic file (type png)
-<use figures/ccdtrace_edited.png>
-Package pdftex.def Info: figures/ccdtrace_edited.png  used on input line 499.
-(pdftex.def)             Requested size: 298.47427pt x 198.77113pt.
-<figures/CCDsummaryedited.png, id=249, 3679.7475pt x 1857.94125pt>
+(pdftex.def)             Requested size: 433.62003pt x 233.79108pt.
+ [6 <./figures/constraintstep.png>]
+[7 <./figures/CB_summaryedited2.png>] [8]
+<figures/CCDsummaryedited.png, id=266, 3679.7475pt x 1857.94125pt>
 File: figures/CCDsummaryedited.png Graphic file (type png)
 <use figures/CCDsummaryedited.png>
-Package pdftex.def Info: figures/CCDsummaryedited.png  used on input line 509.
-(pdftex.def)             Requested size: 426.39369pt x 215.28886pt.
- [9 <./figures/ccdtrace_edited.png>]
-<figures/simsetting3.png, id=261, 4321.14375pt x 3016.26875pt>
+Package pdftex.def Info: figures/CCDsummaryedited.png  used on input line 622.
+(pdftex.def)             Requested size: 390.25537pt x 197.03156pt.
+ [9 <./figures/CCDsummaryedited.png>]
+<figures/ccdtrace_edited.png, id=288, 967.615pt x 644.4075pt>
+File: figures/ccdtrace_edited.png Graphic file (type png)
+<use figures/ccdtrace_edited.png>
+Package pdftex.def Info: figures/ccdtrace_edited.png  used on input line 683.
+(pdftex.def)             Requested size: 325.21501pt x 216.58827pt.
+
+[10] [11 <./figures/ccdtrace_edited.png>]
+<figures/FCIsummary.png, id=335, 1225.57875pt x 855.195pt>
+File: figures/FCIsummary.png Graphic file (type png)
+<use figures/FCIsummary.png>
+Package pdftex.def Info: figures/FCIsummary.png  used on input line 731.
+(pdftex.def)             Requested size: 390.25537pt x 272.31088pt.
+ [12]
+<figures/FCItrace.png, id=347, 1005.7575pt x 312.16624pt>
+File: figures/FCItrace.png Graphic file (type png)
+<use figures/FCItrace.png>
+Package pdftex.def Info: figures/FCItrace.png  used on input line 741.
+(pdftex.def)             Requested size: 325.21501pt x 100.93839pt.
+ [13 <./figures/FCIsummary.png> <./figures/FCItrace.png>]
+<figures/CCIsummary.png, id=360, 1225.57875pt x 965.6075pt>
+File: figures/CCIsummary.png Graphic file (type png)
+<use figures/CCIsummary.png>
+Package pdftex.def Info: figures/CCIsummary.png  used on input line 765.
+(pdftex.def)             Requested size: 390.25537pt x 307.46838pt.
+ [14]
+<figures/ccitrace.png, id=376, 1437.37pt x 312.16624pt>
+File: figures/ccitrace.png Graphic file (type png)
+<use figures/ccitrace.png>
+Package pdftex.def Info: figures/ccitrace.png  used on input line 783.
+(pdftex.def)             Requested size: 433.62003pt x 94.16978pt.
+ [15 <./figures/CCIsummary.png>]
+<figures/overviewalgo.png, id=386, 2535.4725pt x 1333.98375pt>
+File: figures/overviewalgo.png Graphic file (type png)
+<use figures/overviewalgo.png>
+Package pdftex.def Info: figures/overviewalgo.png  used on input line 798.
+(pdftex.def)             Requested size: 433.62003pt x 228.13802pt.
+ [16 <./figures/ccitrace.png>]
+<figures/simsetting3.png, id=397, 4321.14375pt x 3016.26875pt>
 File: figures/simsetting3.png Graphic file (type png)
 <use figures/simsetting3.png>
-Package pdftex.def Info: figures/simsetting3.png  used on input line 529.
-(pdftex.def)             Requested size: 426.39369pt x 297.59439pt.
- [10 <./figures/CCDsummaryedited.png>] [11 <./figures/simsetting3.png>]
-Overfull \vbox (33.07079pt too high) detected at line 568
- []
+Package pdftex.def Info: figures/simsetting3.png  used on input line 837.
+(pdftex.def)             Requested size: 433.62003pt x 302.65709pt.
+ [17 <./figures/overviewalgo.png>] [18 <./figures/simsetting3.png>]
+<figures/evalexample.png, id=428, 2270.4825pt x 843.15pt>
+File: figures/evalexample.png Graphic file (type png)
+<use figures/evalexample.png>
+Package pdftex.def Info: figures/evalexample.png  used on input line 909.
+(pdftex.def)             Requested size: 411.9377pt x 152.96979pt.
+[19] [20 <./figures/evalexample.png>] (./main.bbl
+LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 
+215.
 
-[12]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* bindingoffset: 14.45377pt
-* modes: twoside heightrounded 
-* h-part:(L,W,R)=(79.49744pt, 440.84636pt, 79.49744pt)
-* v-part:(T,H,B)=(86.72377pt, 650.43001pt, 57.81621pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=440.84636pt
-* \textheight=654.37384pt
-* \oddsidemargin=21.68121pt
-* \evensidemargin=7.22745pt
-* \topmargin=-24.54622pt
-* \headheight=14.0pt
-* \headsep=25.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=113.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=14.39996pt plus 5.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+File: ot1txtt.fd 2000/12/15 v3.1
+) [21
 
- (./main.bbl [13
-
-]) [14]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* bindingoffset: 14.45377pt
-* modes: twoside heightrounded 
-* h-part:(L,W,R)=(86.72377pt, 426.39369pt, 86.72377pt)
-* v-part:(T,H,B)=(86.72377pt, 679.33867pt, 28.90755pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=426.39369pt
-* \textheight=687.36737pt
-* \oddsidemargin=28.90755pt
-* \evensidemargin=14.45378pt
-* \topmargin=-24.54622pt
-* \headheight=14.0pt
-* \headsep=25.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=113.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=14.39996pt plus 5.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
+] [22])
+[23]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 620.
+put line 932.
 
-Underfull \hbox (badness 2922) in paragraph at lines 638--638
+Underfull \hbox (badness 3907) in paragraph at lines 950--950
 []\OT1/txr/m/n/10.95 all pairs of ad-ja-cent vari-ables $\OML/txmi/m/it/10.95 X
 $ \OT1/txr/m/n/10.95 and $\OML/txmi/m/it/10.95 Y$ \OT1/txr/m/n/10.95 such that 
 the num-ber of ver-tices in
  []
 
 
-Overfull \hbox (26.07185pt too wide) in paragraph at lines 637--640
+Overfull \hbox (26.07185pt too wide) in paragraph at lines 949--952
 [] \OT1/txr/bx/n/10.95 un-til  []
  []
 
 
-Overfull \hbox (23.99136pt too wide) in paragraph at lines 659--661
+Overfull \hbox (23.99136pt too wide) in paragraph at lines 978--980
 [] \OT1/txr/bx/n/10.95 un-til []
  []
 
 
-Overfull \hbox (23.99136pt too wide) in paragraph at lines 671--673
+Overfull \hbox (23.99136pt too wide) in paragraph at lines 982--984
 []\OT1/txr/bx/n/10.95 un-til []
  []
 
-[15
-
-]
-Underfull \hbox (badness 2922) in paragraph at lines 714--714
+[24]
+Underfull \hbox (badness 3907) in paragraph at lines 1025--1025
 []\OT1/txr/m/n/10.95 all pairs of ad-ja-cent vari-ables $\OML/txmi/m/it/10.95 X
 $ \OT1/txr/m/n/10.95 and $\OML/txmi/m/it/10.95 Y$ \OT1/txr/m/n/10.95 such that 
 the num-ber of ver-tices in
  []
 
 
-Overfull \hbox (26.07185pt too wide) in paragraph at lines 713--716
+Overfull \hbox (26.07185pt too wide) in paragraph at lines 1024--1027
 [] \OT1/txr/bx/n/10.95 un-til  []
  []
 
-
-Underfull \hbox (badness 1484) in paragraph at lines 735--736
-[]\OT1/txr/bx/it/10.95 Step 3. []\OT1/txr/m/n/10.95 For each pair of vari-ables
- $\OML/txmi/m/it/10.95 A$ \OT1/txr/m/n/10.95 and $\OML/txmi/m/it/10.95 B$ \OT1/
-txr/m/n/10.95 ad-ja-cent in $\OML/txmi/m/it/10.95 Q[]$\OT1/txr/m/n/10.95 , if $
-\OML/txmi/m/it/10.95 A$ \OT1/txr/m/n/10.95 and $\OML/txmi/m/it/10.95 B$ \OT1/tx
-r/m/n/10.95 are d-
- []
-
-
-Underfull \hbox (badness 1558) in paragraph at lines 735--736
-\OT1/txr/m/n/10.95 separated given any sub-set $\OML/txmi/m/it/10.95 S$ \OT1/tx
-r/m/n/10.95 of $[]\OMS/txsy/m/n/10.95 h\OML/txmi/m/it/10.95 A; B\OMS/txsy/m/n/1
-0.95 i\OT1/txr/m/n/10.95 )\OMS/txsy/m/n/10.95 nf\OML/txmi/m/it/10.95 A; B\OMS/t
-xsy/m/n/10.95 g$ \OT1/txr/m/n/10.95 or any sub-set $\OML/txmi/m/it/10.95 S$ \OT
-1/txr/m/n/10.95 of
- []
-
-[16]
-Overfull \hbox (23.99136pt too wide) in paragraph at lines 809--812
+[25] [26]
+Overfull \hbox (23.99136pt too wide) in paragraph at lines 1154--1157
 [] \OT1/txr/bx/n/10.95 un-til []
  []
 
 
-Overfull \hbox (26.07185pt too wide) in paragraph at lines 813--815
+Overfull \hbox (26.07185pt too wide) in paragraph at lines 1158--1160
 [] \OT1/txr/bx/n/10.95 un-til  []
  []
 
 
-Overfull \hbox (26.07185pt too wide) in paragraph at lines 816--818
+Overfull \hbox (26.07185pt too wide) in paragraph at lines 1161--1163
 []\OT1/txr/bx/n/10.95 un-til  []
  []
 
-[17] [18] (./main.aux)
+
+Underfull \hbox (badness 3118) in paragraph at lines 1192--1193
+[]\OT1/txr/m/n/10.95 If we have $\OML/txmi/m/it/10.95 O[][]O[]$\OT1/txr/m/n/10.
+95 , there ex-ists a non-potentially 2-triangulated path $[] =
+ []
+
+[27] [28] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A41960D26A0C063B2BC6B772C491921D;2703.
+(rerunfilecheck)             Checksum: 601DCEB85FC85CAC9F9E13226C7F255E;4045.
  ) 
 Here is how much of TeX's memory you used:
- 30178 strings out of 478268
- 567033 string characters out of 5846346
- 875819 words of memory out of 5000000
- 47727 multiletter control sequences out of 15000+600000
- 547710 words of font info for 221 fonts, out of 8000000 for 9000
+ 30708 strings out of 478268
+ 580064 string characters out of 5846346
+ 902324 words of memory out of 5000000
+ 48196 multiletter control sequences out of 15000+600000
+ 548815 words of font info for 224 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,15n,92p,1531b,1068s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,15n,92p,1494b,1161s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxbmi.pfb></usr/local/texliv
 e/2022/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2022/
@@ -1455,14 +1414,15 @@ nts/type1/public/txfonts/txex.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
 e1/public/txfonts/txsy.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
 ic/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txf
 onts/txsyb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/t
-xsyc.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><
-/usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/loca
-l/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
-2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 1036955 bytes).
+xsyc.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pf
+b></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
+cal/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texli
+ve/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (28 pages, 1524759 bytes).
 PDF statistics:
- 435 PDF objects out of 1000 (max. 8388607)
- 373 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 500000)
- 179 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 542 compressed objects within 6 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
